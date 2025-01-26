@@ -1,1 +1,2 @@
 # SnakeGame
+The SnakeGame application offers an interactive gameplay experience similar to the classic Snake game found on mobile phones. Players control the snake to navigate around the screen, eating food to grow longer while avoiding collisions with walls and the snake's own body. The game provides an engaging and fun way to pass time while challenging users to improve their reflexes and score.
